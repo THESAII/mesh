@@ -1,0 +1,38 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = Air
+End
+
+Body 2
+  Name = Ferrite
+End
+
+Body 3
+  Name = D
+End
+
+Body 4
+  Name = P
+End
+
+Body 5
+  Name = G1
+End
+
+Body 6
+  Name = G2
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = Boundary
+End
+
+Boundary Condition 2
+  Name = bnry8
+End
+
+Boundary Condition 3
+  Name = bnry9
+End
+
