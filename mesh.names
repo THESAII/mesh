@@ -5,7 +5,8 @@ $ D = 3
 $ P = 4
 $ G1 = 5
 $ G2 = 6
+$ G3 = 7
 ! ----- names for boundaries -----
-$ Boundary = 7
-$ bnry8 = 8
+$ Boundary = 8
 $ bnry9 = 9
+$ bnry10 = 10

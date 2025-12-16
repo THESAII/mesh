@@ -23,16 +23,20 @@ Body 6
   Name = G2
 End
 
+Body 7
+  Name = G3
+End
+
 !------ Skeleton for boundary section -----
 Boundary Condition 1
   Name = Boundary
 End
 
 Boundary Condition 2
-  Name = bnry8
+  Name = bnry9
 End
 
 Boundary Condition 3
-  Name = bnry9
+  Name = bnry10
 End
 
